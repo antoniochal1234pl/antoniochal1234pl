@@ -1,0 +1,94 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial;
+    margin: 0;
+}
+
+.gora {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.foto-gora {
+    width: 60px;
+}
+
+.gora a {
+    color: lightblue;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.srodek, .tekst {
+    background-color: white;
+    width: 85%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid gray;
+}
+
+.film {
+    background-color: #222;
+    padding: 15px;
+    color: white;
+}
+
+.okno {
+    position: relative;
+    width: 100%;
+    padding-top: 56%;
+}
+
+.okno iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.dol {
+    width: 85%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.info {
+    width: 45%;
+    float: left;
+    background: white;
+    margin: 2%;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.model {
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+    padding: 5px;
+}
+
+.prawa {
+    float: right;
+    width: 180px;
+    margin-left: 10px;
+}
+
+.lewa {
+    float: left;
+    width: 180px;
+    margin-right: 10px;
+}
+
+
+
+.stopka {
+   
+    text-align: center;
+    background: #333;
+    color: white;
+    padding: 10px;
+}
